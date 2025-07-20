@@ -11,15 +11,16 @@ A basic CRUD-based web application to manage employee records using PHP and MySQ
 
 ## 🗂️ File Structure
 
+```text
 employee_management/
-├── db_config.php # Database connection
-├── insert_employee.php # Form to add new employee
+├── db_config.php              # Database connection
+├── insert_employee.php        # Form to add new employee
 ├── insert_employee_action.php # Logic to insert data
-├── update_employee.php # Form to edit existing employee
+├── update_employee.php        # Form to edit existing employee
 ├── update_employee_action.php # Logic to update data
-├── delete_employee.php # Logic to delete employee
-├── view_employees.php # View employee records
-
+├── delete_employee.php        # Logic to delete employee
+├── view_employees.php         # View employee records
+```
 ## ⚙️ Setup Instructions
 
 1. Clone or download this repository.
